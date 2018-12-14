@@ -1,0 +1,48 @@
+/*Practice CSS.*/
+
+body {background-color:Gold;}
+ul li {color:Black;text-align:center}
+	p {font-family:"Times New Roman", Times, serif}
+
+p1{
+	float:center;
+	width:50%;
+	font-family:"Times New Roman", Times, serif;
+	margin-left: 20px
+}
+
+p {text-align:justify;font-weight:bold;}
+
+
+img {
+float: center;
+text-align: center;
+}
+footer{
+	clear: center;
+width: 100%;}
+body {
+	background-color:  Gold;
+}
+h1 {
+	color: Black;
+	margin-left:  20px;
+}
+h2 {
+	color: Black;
+	margin-left:  20px;
+}
+h3 {
+	color: Black;
+	margin-left:  20px;
+}
+h4 {
+	color: Black;
+	margin-left:  20px;
+}
+}
+h5 {
+	color: Black;
+	margin-left:  20px;
+	background-color:  black;
+}
